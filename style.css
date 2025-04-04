@@ -42,7 +42,7 @@ section#login {
 }
 
 section#login > div#imagem {
-    background: url(../imagem/imagemlogin.jpg) no-repeat center center;
+    background: url(imagemlogin.jpg) no-repeat center center;
     background-size: cover;
     height: 150px;
     border-top-left-radius: 28px;
